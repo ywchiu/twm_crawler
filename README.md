@@ -11,3 +11,14 @@
 
 ## Crome Driver
 - https://chromedriver.chromium.org/
+
+## Selenium 使用說明
+
+先下載 Chromium (64 位元版)
+
+- https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/814947/
+
+請同仁下載chrome-win.zip (瀏覽器本體)
+
+下載chromedriver_win32.zip (Driver) 
+
