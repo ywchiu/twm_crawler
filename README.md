@@ -22,7 +22,7 @@
 
 下載chromedriver_win32.zip (Driver) 
 
-##Selenium Headers
+## Selenium Headers
 
 ```` 
 options = webdriver.ChromeOptions()
@@ -165,3 +165,7 @@ driver=webdriver.Chrome(chrome_options=chrome_options)
 
 
 ````
+
+## Scroll Down
+- driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
